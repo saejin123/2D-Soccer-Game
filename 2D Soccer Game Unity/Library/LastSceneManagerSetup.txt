@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/ep13 - 2d game.unity
+  isLoaded: 1
+  isActive: 1
